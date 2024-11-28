@@ -1007,6 +1007,9 @@ main {
   #Projects
 \*-----------------------------------*/
 
+.Projects {
+    margin-top: 20px;
+}
 .filter-list {
     display: none;
 }
@@ -1457,7 +1460,7 @@ textarea.form-input::-webkit-resizer {
     article {
         width: 520px;
         margin-inline: auto;
-        padding: 30px;
+        padding: 10px 30px 10px 30px;
     }
 
     .article-title {
@@ -1569,10 +1572,6 @@ textarea.form-input::-webkit-resizer {
 
     .about .article-title {
         margin-bottom: 20px;
-    }
-
-    .about-text {
-        margin-bottom: 40px;
     }
 
     /* service */
